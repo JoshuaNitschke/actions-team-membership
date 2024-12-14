@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/TheModdingInquisition/actions-team-membership#readme",
   "dependencies": {
-    "@actions/core": "^1.8.2",
-    "@actions/github": "^5.0.3"
+    "@actions/core": "^1.11.1",
+    "@actions/github": "^6.0.0"
   },
   "devDependencies": {
     "@vercel/ncc": "^0.33.1"
